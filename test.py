@@ -1,0 +1,3 @@
+
+class practice:
+    pass
